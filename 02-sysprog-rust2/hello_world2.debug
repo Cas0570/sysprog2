@@ -1,0 +1,80 @@
+
+00017: write8 **15 0        # *15 was 2, *2 was 72
+00021: add16 *15 1          # *15 was 2, *15 becomes 3
+00027: if<16 *15 15         # *15 was 3
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 3, *3 was 101
+00021: add16 *15 1          # *15 was 3, *15 becomes 4
+00027: if<16 *15 15         # *15 was 4
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 4, *4 was 108
+00021: add16 *15 1          # *15 was 4, *15 becomes 5
+00027: if<16 *15 15         # *15 was 5
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 5, *5 was 108
+00021: add16 *15 1          # *15 was 5, *15 becomes 6
+00027: if<16 *15 15         # *15 was 6
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 6, *6 was 111
+00021: add16 *15 1          # *15 was 6, *15 becomes 7
+00027: if<16 *15 15         # *15 was 7
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 7, *7 was 32
+00021: add16 *15 1          # *15 was 7, *15 becomes 8
+00027: if<16 *15 15         # *15 was 8
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 8, *8 was 119
+00021: add16 *15 1          # *15 was 8, *15 becomes 9
+00027: if<16 *15 15         # *15 was 9
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 9, *9 was 111
+00021: add16 *15 1          # *15 was 9, *15 becomes 10
+00027: if<16 *15 15         # *15 was 10
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 10, *10 was 114
+00021: add16 *15 1          # *15 was 10, *15 becomes 11
+00027: if<16 *15 15         # *15 was 11
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 11, *11 was 108
+00021: add16 *15 1          # *15 was 11, *15 becomes 12
+00027: if<16 *15 15         # *15 was 12
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 12, *12 was 100
+00021: add16 *15 1          # *15 was 12, *15 becomes 13
+00027: if<16 *15 15         # *15 was 13
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 13, *13 was 33
+00021: add16 *15 1          # *15 was 13, *15 becomes 14
+00027: if<16 *15 15         # *15 was 14
+00033: set16 *0 17          # *0 was 33, jump to 17
+
+
+00017: write8 **15 0        # *15 was 14, *14 was 10
+00021: add16 *15 1          # *15 was 14, *15 becomes 15
+00027: if<16 *15 15         # *15 was 15
+00033: skipping
+00039: set16 *0 0           # *0 was 39, jump to 0
+
+Exit because ip=0

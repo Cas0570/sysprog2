@@ -1,0 +1,20 @@
+[package]
+name = "template1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+sha1 = "0.10.6"
+
+[[bin]]
+name = "password_cracker"
+path = "src/password_cracker.rs"
+
+[[bin]]
+name = "password_cracker_structured"
+path = "src/password_cracker_structured.rs"
+
+[[bin]]
+name = "bank_accounts_restorer"
+path = "src/bank_accounts_restorer.rs"

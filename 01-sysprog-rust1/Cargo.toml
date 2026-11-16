@@ -1,0 +1,11 @@
+[package]
+name = "viewer"
+version = "0.2.0"
+authors = ["You <you@student.saxion.nl>"]
+edition = "2021"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+show-image = "0.13.1"

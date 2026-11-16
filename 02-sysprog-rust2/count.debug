@@ -1,0 +1,256 @@
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 42, *2 becomes 41
+00013: if>16 *2 0           # *2 was 41
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 41, *2 becomes 40
+00013: if>16 *2 0           # *2 was 40
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 40, *2 becomes 39
+00013: if>16 *2 0           # *2 was 39
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 39, *2 becomes 38
+00013: if>16 *2 0           # *2 was 38
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 38, *2 becomes 37
+00013: if>16 *2 0           # *2 was 37
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 37, *2 becomes 36
+00013: if>16 *2 0           # *2 was 36
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 36, *2 becomes 35
+00013: if>16 *2 0           # *2 was 35
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 35, *2 becomes 34
+00013: if>16 *2 0           # *2 was 34
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 34, *2 becomes 33
+00013: if>16 *2 0           # *2 was 33
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 33, *2 becomes 32
+00013: if>16 *2 0           # *2 was 32
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 32, *2 becomes 31
+00013: if>16 *2 0           # *2 was 31
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 31, *2 becomes 30
+00013: if>16 *2 0           # *2 was 30
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 30, *2 becomes 29
+00013: if>16 *2 0           # *2 was 29
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 29, *2 becomes 28
+00013: if>16 *2 0           # *2 was 28
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 28, *2 becomes 27
+00013: if>16 *2 0           # *2 was 27
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 27, *2 becomes 26
+00013: if>16 *2 0           # *2 was 26
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 26, *2 becomes 25
+00013: if>16 *2 0           # *2 was 25
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 25, *2 becomes 24
+00013: if>16 *2 0           # *2 was 24
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 24, *2 becomes 23
+00013: if>16 *2 0           # *2 was 23
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 23, *2 becomes 22
+00013: if>16 *2 0           # *2 was 22
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 22, *2 becomes 21
+00013: if>16 *2 0           # *2 was 21
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 21, *2 becomes 20
+00013: if>16 *2 0           # *2 was 20
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 20, *2 becomes 19
+00013: if>16 *2 0           # *2 was 19
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 19, *2 becomes 18
+00013: if>16 *2 0           # *2 was 18
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 18, *2 becomes 17
+00013: if>16 *2 0           # *2 was 17
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 17, *2 becomes 16
+00013: if>16 *2 0           # *2 was 16
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 16, *2 becomes 15
+00013: if>16 *2 0           # *2 was 15
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 15, *2 becomes 14
+00013: if>16 *2 0           # *2 was 14
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 14, *2 becomes 13
+00013: if>16 *2 0           # *2 was 13
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 13, *2 becomes 12
+00013: if>16 *2 0           # *2 was 12
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 12, *2 becomes 11
+00013: if>16 *2 0           # *2 was 11
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 11, *2 becomes 10
+00013: if>16 *2 0           # *2 was 10
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 10, *2 becomes 9
+00013: if>16 *2 0           # *2 was 9
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 9, *2 becomes 8
+00013: if>16 *2 0           # *2 was 8
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 8, *2 becomes 7
+00013: if>16 *2 0           # *2 was 7
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 7, *2 becomes 6
+00013: if>16 *2 0           # *2 was 6
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 6, *2 becomes 5
+00013: if>16 *2 0           # *2 was 5
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 5, *2 becomes 4
+00013: if>16 *2 0           # *2 was 4
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 4, *2 becomes 3
+00013: if>16 *2 0           # *2 was 3
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 3, *2 becomes 2
+00013: if>16 *2 0           # *2 was 2
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 2, *2 becomes 1
+00013: if>16 *2 0           # *2 was 1
+00017: set16 *0 4           # *0 was 17, jump to 4
+
+
+00004: write8 120 0         # 
+00007: sub16 *2 1           # *2 was 1, *2 becomes 0
+00013: if>16 *2 0           # *2 was 0
+00017: skipping
+
+00023: write8 10 0          # 
+00026: set16 *0 0           # *0 was 26, jump to 0
+
+Exit because ip=0
