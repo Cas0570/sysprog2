@@ -43,4 +43,4 @@ https://www.youtube.com/watch?v=6FPXivU4BTc&pp
 https://blog.logrocket.com/using-rust-scoped-threads-improve-efficiency-safety/
 
 07-sysprog-practice:
-no new learning resources
+no new learning resources.
